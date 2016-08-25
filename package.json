@@ -1,0 +1,19 @@
+{
+  "name": "datepicker",
+  "version": "1.0.0",
+  "description": "以datePicker为模型探索组件扩展的方式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/374632897/datePicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/374632897/datePicker/issues"
+  },
+  "homepage": "https://github.com/374632897/datePicker#readme"
+}
